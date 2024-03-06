@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabilla Muhammad Rayhan</h1>
 <h3 align="center">I am Programmer Software Engineer</h3>
 
-- 🔭 I’m studied at Gentara Comunity [microservice](https://github.com/sabilmr/bootcamp-microservice)
+- 🔭 I’m studied at **Gentara Comunity**
 
 - 🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, and JavaScripts**
 
