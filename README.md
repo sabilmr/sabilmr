@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sabilla Muhammad Rayhan</h1>
 <h3 align="center">I am Programmer Software Engineer</h3>
 
-- 🔭 I’m studied at Gentara Bootcamp [microservice](https://github.com/sabilmr/bootcamp-microservice)
+- 🔭 I’m studied at Gentara Comunity [microservice and mini project](https://github.com/sabilmr/bootcamp-microservice,and https://github.com/sabilmr/bootcamp-mini-project)
 
 - 🌱 I’m currently learning **Java, Spring Boot, HTML, CSS, and JavaScripts**
 
 - 👯 I’m looking to collaborate on [Ahmad Roni Purwanto S.Kom](https://github.com/aronipurwanto)
 
-- 👨‍💻 All of my projects are available at [https://github.com/sabilmr, and https://gitlab.com/gentara-psm](https://github.com/sabilmr, and https://gitlab.com/gentara-psm)
-
-- 💬 Ask me about **Java**
+- 👨‍💻 All of my projects are available at [https://gitlab.com/gentara-psm](https://gitlab.com/gentara-psm)
 
 - 📫 How to reach me **r4089077@gmail.com**
+
+- ⚡ Fun fact **I am a programmer from the village**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
