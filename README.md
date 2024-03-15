@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/gentara-psm](https://gitlab.com/gentara-psm)
 
-- 📫 How to reach me **r4089077@gmail.com**
-
 - ⚡ Fun fact **I am a programmer from the village**
 
 <h3 align="left">Connect with me:</h3>
