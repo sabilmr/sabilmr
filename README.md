@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Ahmad Roni Purwanto S.Kom](https://github.com/aronipurwanto)
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/gentara-psm](https://gitlab.com/gentara-psm)
+- 📫 How to reach me **r4089077@gmail.com**
 
 - ⚡ Fun fact **I am a programmer from the village**
 
